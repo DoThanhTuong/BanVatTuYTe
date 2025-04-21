@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // --- Chuyển hướng người dùng ---
         // Chuyển hướng về trang chủ hoặc trang mong muốn sau khi đăng nhập
         setTimeout(() => {
-          window.location.href = '../home/index.html'; // Chuyển hướng về trang chủ sau 1.5 giây
+          window.location.href = '../index.html'; // Chuyển hướng về trang chủ sau 1.5 giây
         }, 1500);
 
       } else {
