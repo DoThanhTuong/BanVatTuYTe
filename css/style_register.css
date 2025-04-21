@@ -1,0 +1,66 @@
+
+.row {
+  width: 100%;
+  min-height: 67vh;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* Added styles for register container */
+.register-container {
+  margin-bottom: 50px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.register-container h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #0056b3;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+#registration-message {
+  /* Style for message div */
+  margin-top: 20px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.alert-success {
+  color: #155724;
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.alert-danger {
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.alert-warning {
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+}
